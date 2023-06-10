@@ -11,5 +11,7 @@ pkg install python
 
 git clone https://github.com/Unlimited-demi/Web_scraper/edit/main/README.md
 
+cd Web_scraper
+
 To run:
 python Web_scraper.py
